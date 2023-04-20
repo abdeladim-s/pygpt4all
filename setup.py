@@ -12,7 +12,7 @@ setup(
     name="pygpt4all",
     version="1.0.0",
     author="Abdeladim Sadiki",
-    description="git config --global --add safe.directory  . ",
+    description="Official Python CPU inference for GPT4All language models based on llama.cpp and ggml",
     long_description=long_description,
     ext_modules=[],
     zip_safe=False,
