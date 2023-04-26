@@ -1,3 +1,4 @@
+# The repo has moved to https://github.com/nomic-ai/pygpt4all
 # PyGPTALL
 Official Python CPU inference for [GPT4All](https://github.com/nomic-ai/gpt4all) language models based on [llama.cpp](https://github.com/ggerganov/llama.cpp) and [ggml](https://github.com/ggerganov/ggml).
 
